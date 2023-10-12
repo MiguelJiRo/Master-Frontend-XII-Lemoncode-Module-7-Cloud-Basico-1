@@ -16,5 +16,6 @@
 ### Parte básica - 1
 <ol>
     <li>✅ Desplegar en Github Pages de forma manual</li>
-    <li>✅ [Web gh-pages](https://migueljiro.github.io/Master-Frontend-XII-Lemoncode-Module-7-Cloud-Basico-1/)</li>
 </ol>
+
+[Web gh-pages](https://migueljiro.github.io/Master-Frontend-XII-Lemoncode-Module-7-Cloud-Basico-1/)
